@@ -1,0 +1,7 @@
+id,username,password, type
+1,admin,123,0
+2,client1,1234,2
+3,employee,12345,1
+4,client2,1234,2
+5,client3,1234,2
+6,client4,1234,2

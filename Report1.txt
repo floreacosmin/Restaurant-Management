@@ -1,0 +1,123 @@
+Orders placed from 17:00:00 to 18:00:00:
+
+ORDER ID:  1                 ORDER DATE: 26/05/2022 17:36:11
+    CLIENT ID:  2
+      Order contains:
+             Grilled Cumin Chicken Breasts with Avocado Salsa    PRICE: 20
+             Menu1   PRICE: 232
+
+             PRICE: 252
+
+
+ORDER ID:  2                 ORDER DATE: 26/05/2022 17:37:17
+    CLIENT ID:  2
+      Order contains:
+             Grilled Cumin Chicken Breasts with Avocado Salsa    PRICE: 20
+             Grilled Lamb Chops with Porcini Mustard    PRICE: 50
+             Lamb Köfte with Tarator Sauce    PRICE: 88
+             Menu1   PRICE: 232
+
+             PRICE: 390
+
+
+ORDER ID:  3                 ORDER DATE: 26/05/2022 17:37:18
+    CLIENT ID:  2
+      Order contains:
+             Braised Orange-Ginger Short Ribs with Dried Apricots    PRICE: 70
+             Grilled Cumin Chicken Breasts with Avocado Salsa    PRICE: 20
+             Caramelized Apple and Pear Pie    PRICE: 75
+
+             PRICE: 165
+
+
+ORDER ID:  4                 ORDER DATE: 26/05/2022 17:37:20
+    CLIENT ID:  2
+      Order contains:
+             Broiled Lamb Chops with Mint Chimichurri    PRICE: 20
+             Pineapple Coconut Layer Cake    PRICE: 10
+             Lamb Chops with Sun-Dried Tomato Butter    PRICE: 67
+             Braised Orange-Ginger Short Ribs with Dried Apricots    PRICE: 70
+             Grilled Cumin Chicken Breasts with Avocado Salsa    PRICE: 20
+             Caramelized Apple and Pear Pie    PRICE: 75
+
+             PRICE: 262
+
+
+ORDER ID:  5                 ORDER DATE: 26/05/2022 17:37:23
+    CLIENT ID:  2
+      Order contains:
+             Fresh Banana Layer Cake    PRICE: 43
+
+             PRICE: 43
+
+
+ORDER ID:  6                 ORDER DATE: 26/05/2022 17:37:26
+    CLIENT ID:  2
+      Order contains:
+             Spicy Pickled Shallots    PRICE: 78
+             Ethiopian Spice Tea    PRICE: 49
+             Smoked Caviar and Hummus on Pita Toasts    PRICE: 79
+             Fresh Banana Layer Cake    PRICE: 43
+
+             PRICE: 249
+
+
+ORDER ID:  7                 ORDER DATE: 26/05/2022 17:37:27
+    CLIENT ID:  2
+      Order contains:
+             Smoked Caviar and Hummus on Pita Toasts    PRICE: 79
+             Barbecued Shrimp    PRICE: 71
+             Cilantro-Tomato Salsa    PRICE: 32
+             Cauliflower-Leek Purée    PRICE: 13
+             Red and Green Tomato Salsa    PRICE: 38
+             The Original Three-Ingredient Rub    PRICE: 47
+
+             PRICE: 280
+
+
+ORDER ID:  8                 ORDER DATE: 26/05/2022 17:37:28
+    CLIENT ID:  2
+      Order contains:
+             Red and Green Tomato Salsa    PRICE: 38
+             The Original Three-Ingredient Rub    PRICE: 47
+             Shrimp Sates with Spiced Pistachio Chutney    PRICE: 78
+             Coriander-Herb Spice Rub    PRICE: 51
+
+             PRICE: 214
+
+
+ORDER ID:  9                 ORDER DATE: 26/05/2022 17:37:38
+    CLIENT ID:  4
+      Order contains:
+             Ethiopian Spice Tea    PRICE: 49
+             Cilantro-Tomato Salsa    PRICE: 32
+             Shrimp Sates with Spiced Pistachio Chutney    PRICE: 78
+             Beef Stock    PRICE: 26
+
+             PRICE: 185
+
+
+ORDER ID:  10                 ORDER DATE: 26/05/2022 17:37:41
+    CLIENT ID:  4
+      Order contains:
+             "Endive ""Spoons"" with Lemon-Herb Goat Cheese "   PRICE: 50
+             Toasted Corn Crisps    PRICE: 66
+             Classic Salad    PRICE: 49
+             Master Stock Chicken    PRICE: 72
+             Fish Stock    PRICE: 27
+
+             PRICE: 264
+
+
+ORDER ID:  11                 ORDER DATE: 26/05/2022 17:37:43
+    CLIENT ID:  4
+      Order contains:
+             Arugula Salad with Heirloom Tomatoes and Red Onion    PRICE: 21
+             Red Pepper Sauce    PRICE: 62
+             Master Stock Chicken    PRICE: 72
+             Potato Samosa Tartlets    PRICE: 82
+
+             PRICE: 237
+
+
+DATE: 26/05/2022 17:38:04

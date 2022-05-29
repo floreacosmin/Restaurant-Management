@@ -1,0 +1,16 @@
+Order 7
+
+client1
+
+ Order date: 26/05/2022 17:37:27
+
+ Your order is:
+
+Smoked Caviar and Hummus on Pita Toasts      79 RON
+Barbecued Shrimp      71 RON
+Cilantro-Tomato Salsa      32 RON
+Cauliflower-Leek Purée      13 RON
+Red and Green Tomato Salsa      38 RON
+The Original Three-Ingredient Rub      47 RON
+
+Pret total:   280 RON

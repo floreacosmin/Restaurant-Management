@@ -1,0 +1,16 @@
+Order 4
+
+client1
+
+ Order date: 26/05/2022 17:37:20
+
+ Your order is:
+
+Broiled Lamb Chops with Mint Chimichurri      20 RON
+Pineapple Coconut Layer Cake      10 RON
+Lamb Chops with Sun-Dried Tomato Butter      67 RON
+Braised Orange-Ginger Short Ribs with Dried Apricots      70 RON
+Grilled Cumin Chicken Breasts with Avocado Salsa      20 RON
+Caramelized Apple and Pear Pie      75 RON
+
+Pret total:   262 RON

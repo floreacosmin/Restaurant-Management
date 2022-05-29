@@ -1,0 +1,14 @@
+Order 2
+
+client1
+
+ Order date: 26/05/2022 17:37:17
+
+ Your order is:
+
+Grilled Cumin Chicken Breasts with Avocado Salsa      20 RON
+Grilled Lamb Chops with Porcini Mustard      50 RON
+Lamb Köfte with Tarator Sauce      88 RON
+Menu1     232 RON
+
+Pret total:   390 RON

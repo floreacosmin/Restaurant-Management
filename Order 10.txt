@@ -1,0 +1,15 @@
+Order 10
+
+client2
+
+ Order date: 26/05/2022 17:37:41
+
+ Your order is:
+
+"Endive ""Spoons"" with Lemon-Herb Goat Cheese "     50 RON
+Toasted Corn Crisps      66 RON
+Classic Salad      49 RON
+Master Stock Chicken      72 RON
+Fish Stock      27 RON
+
+Pret total:   264 RON

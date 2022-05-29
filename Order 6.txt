@@ -1,0 +1,14 @@
+Order 6
+
+client1
+
+ Order date: 26/05/2022 17:37:26
+
+ Your order is:
+
+Spicy Pickled Shallots      78 RON
+Ethiopian Spice Tea      49 RON
+Smoked Caviar and Hummus on Pita Toasts      79 RON
+Fresh Banana Layer Cake      43 RON
+
+Pret total:   249 RON

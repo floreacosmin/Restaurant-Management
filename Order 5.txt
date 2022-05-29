@@ -1,0 +1,11 @@
+Order 5
+
+client1
+
+ Order date: 26/05/2022 17:37:23
+
+ Your order is:
+
+Fresh Banana Layer Cake      43 RON
+
+Pret total:   43 RON

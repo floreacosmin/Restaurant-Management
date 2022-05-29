@@ -1,0 +1,14 @@
+Order 11
+
+client2
+
+ Order date: 26/05/2022 17:37:43
+
+ Your order is:
+
+Arugula Salad with Heirloom Tomatoes and Red Onion      21 RON
+Red Pepper Sauce      62 RON
+Master Stock Chicken      72 RON
+Potato Samosa Tartlets      82 RON
+
+Pret total:   237 RON

@@ -1,0 +1,14 @@
+Order 8
+
+client1
+
+ Order date: 26/05/2022 17:37:28
+
+ Your order is:
+
+Red and Green Tomato Salsa      38 RON
+The Original Three-Ingredient Rub      47 RON
+Shrimp Sates with Spiced Pistachio Chutney      78 RON
+Coriander-Herb Spice Rub      51 RON
+
+Pret total:   214 RON

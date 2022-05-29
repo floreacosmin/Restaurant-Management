@@ -1,0 +1,4 @@
+Clients who ordered more than 3 times, with a value of each order higher than 60
+
+Client ID: 2       Number of orders:8
+DATE: 26/05/2022 17:38:49

@@ -1,0 +1,12 @@
+Order 1
+
+client1
+
+ Order date: 26/05/2022 17:36:11
+
+ Your order is:
+
+Grilled Cumin Chicken Breasts with Avocado Salsa      20 RON
+Menu1     232 RON
+
+Pret total:   252 RON

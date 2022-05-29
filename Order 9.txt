@@ -1,0 +1,14 @@
+Order 9
+
+client2
+
+ Order date: 26/05/2022 17:37:38
+
+ Your order is:
+
+Ethiopian Spice Tea      49 RON
+Cilantro-Tomato Salsa      32 RON
+Shrimp Sates with Spiced Pistachio Chutney      78 RON
+Beef Stock      26 RON
+
+Pret total:   185 RON

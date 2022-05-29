@@ -1,0 +1,13 @@
+Order 3
+
+client1
+
+ Order date: 26/05/2022 17:37:18
+
+ Your order is:
+
+Braised Orange-Ginger Short Ribs with Dried Apricots      70 RON
+Grilled Cumin Chicken Breasts with Avocado Salsa      20 RON
+Caramelized Apple and Pear Pie      75 RON
+
+Pret total:   165 RON
